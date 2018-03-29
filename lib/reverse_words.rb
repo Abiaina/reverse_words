@@ -37,4 +37,5 @@ def reverse_words(string)
 
     index += 1
   end
+  return string
 end
